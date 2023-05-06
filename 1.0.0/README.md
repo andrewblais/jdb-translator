@@ -30,8 +30,7 @@ language pair and the complexity of the text being translated.
 - Copy all the project files into one folder and run JDBTranslator.exe. 
 - Python does not need to be installed to run this application.
 - You need at least a free DeepL API account to make use of the translation functionality in this application.
-- Go to [DeepL](https://www.deepl.com/pro-checkout/account?productId=1200&yearly=false&trial=false) and sign up for their free tier.
-- Create an auth key for the DeepL API and either assign that directly to the 'deepl_auth_key' variable in the file 'deepl_translation.py' or create an environmental variable and assign the key there.
+- Go to [DeepL](https://www.deepl.com/pro-checkout/account?productId=1200&yearly=false&trial=false), sign up for their free tier and retrieve your auth key.
 - Assign that auth key to the 'auth_key' variable in 'deepl_translation.py'.
 - For higher security create an 'DEEPL_AUTH_KEY' environment variable on your system and assign your DeepL API auth key to that.
 
