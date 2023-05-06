@@ -149,6 +149,4 @@ context_menu_text.add_command(label="Select All", command=lambda: select_all(cur
 source_text.bind("<Button-3>", display_context_menu)
 target_text.bind("<Button-3>", display_context_menu)
 
-print(window.bind_class("Listbox"))
-
 window.mainloop()
