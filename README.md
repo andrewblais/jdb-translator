@@ -47,7 +47,7 @@ You may run this application in two ways:
     - Now you can run the application on a machine without Python installed.
 
 
-You need at least a free DeepL API account to make use of the translation functionality in this
+- You need at least a free DeepL API account to make use of the translation functionality in this
 application.
     - Go to [DeepL](https://www.deepl.com/pro-checkout/account?productId=1200&yearly=false&trial=false) and
       sign up for their free tier.
